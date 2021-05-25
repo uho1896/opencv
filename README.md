@@ -2,16 +2,16 @@ OpenCV.js wrapper for NodeJS
 
 ## Install
 ```javascript
-npm install @uho1896/opencv --save
+npm install uho1896/opencv --save
 
 or
 
-yarn add @uho1896/opencv
+yarn add uho1896/opencv
 ```
 
 ## example
 ```javascript
-const OpenCV = require('@uho1896/opencv');
+const OpenCV = require('uho1896/opencv');
 const path = require('path')
 
 async function main() {
