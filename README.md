@@ -11,7 +11,7 @@ yarn add uho1896/opencv
 
 ## example
 ```javascript
-const OpenCV = require('uho1896/opencv');
+const OpenCV = require('opencv');
 const path = require('path')
 
 async function main() {
