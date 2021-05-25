@@ -1,0 +1,25 @@
+{
+  "name": "opencv",
+  "version": "4.5.2",
+  "description": "opencv.js wrapper for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uho1896/opencv.git"
+  },
+  "keywords": [
+    "Node",
+    "Nodejs",
+    "opencv"
+  ],
+  "author": "uho1896",
+  "license": "MIT",
+  "homepage": "https://github.com/uho1896/opencv#readme",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "jsdom": "^16.6.0"
+  }
+}
